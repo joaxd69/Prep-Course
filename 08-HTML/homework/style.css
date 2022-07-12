@@ -1,7 +1,25 @@
-#Thirddiv {width: 500px;
+.divClass{ background-color: rgb(147, 147, 232);
+    width: 550px;
+    position: relative;
+    left: 30%;
+    top: 20px;
+    
+
+ }
+ #Thirddiv {width: 500px;
     height:600px ;
-     background-color: rgb(239, 238, 164);
+     background-color: rgb(153, 219, 248);
      padding:50px ;
-     border:5px double black}
-     
-  #spanId {font-size: 18px ; margin:50px ; }
+     border:5px double black;
+    position :relative;
+    top : 30px;
+    left: 30%;}
+
+
+
+  #spanId {font-size: 18px ;
+     margin:50px ;
+ }
+ body {background-image:url(https://www.xtrafondos.com/thumbs/1_7185.jpg);}
+
+
